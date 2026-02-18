@@ -1,5 +1,5 @@
 
-# **CSC 529: Lab4
+# CSC 529: Lab4
 
 **Course:** CSC 529 – Obj Oriented Software Development
 **Level:** Graduate
