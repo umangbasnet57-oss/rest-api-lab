@@ -3,7 +3,7 @@
 
 **Course:** CSC 529 – Obj Oriented Software Development
 **Level:** Graduate
-**Project Type:** REST API Tutorial
+**Project Type:** REST API Using Java and Maven
 ---
 
 ## **Overview**
