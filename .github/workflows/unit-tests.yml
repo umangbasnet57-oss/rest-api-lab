@@ -1,4 +1,4 @@
-name: Java CI - Unit Tests
+name: Java CI - Employee Unit Tests
 
 on:
   push:
